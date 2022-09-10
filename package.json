@@ -1,0 +1,19 @@
+{
+  "name": "backlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiko942/backlink.git"
+  },
+  "author": "Wiji Fiko Teren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiko942/backlink/issues"
+  },
+  "homepage": "https://github.com/fiko942/backlink#readme"
+}
