@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/fiko942/backlink/issues"
   },
-  "homepage": "https://github.com/fiko942/backlink#readme"
+  "homepage": "https://github.com/fiko942/backlink#readme",
+  "dependencies": {
+    "config": "^3.3.8",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
 }
